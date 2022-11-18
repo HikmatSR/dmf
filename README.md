@@ -1,5 +1,4 @@
-# Cr4ck
-Cr4ck multi brute force
+# dmf
 
 <h1 align="center">
     [ Dump Multi Fast ]
