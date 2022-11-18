@@ -1,5 +1,3 @@
-# dmf
-
 <h1 align="center">
     [ Dump Multi Fast ]
 </h1>
